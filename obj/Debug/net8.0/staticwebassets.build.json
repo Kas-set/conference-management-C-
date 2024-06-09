@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7Aa2VIZiLQioTu3HCzlh0wRHRiV8PKZUUNMsEgK4uIo=",
+  "Source": "EntityFrameworkCoreMySQL",
+  "BasePath": "_content/EntityFrameworkCoreMySQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

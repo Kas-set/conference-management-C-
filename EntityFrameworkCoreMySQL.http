@@ -1,0 +1,6 @@
+@EntityFrameworkCoreMySQL_HostAddress = http://localhost:5183
+
+GET {{EntityFrameworkCoreMySQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
